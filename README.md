@@ -6,3 +6,6 @@ CRUD ( Create Read Update Delete ) is simple javascript web app implemented usin
 - CSS
 - JS
 - DOM ( Document Object Model )
+
+### Live Preview
+[Link](https://pavan-kalamkar.github.io/CRUD-App-Javascript/)
